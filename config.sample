@@ -1,14 +1,14 @@
 [settings]
-search_query:#yourHashtag
+search_query:#arduino #intel #edison #inteledison #iot #internetoftimes
 # Leave empty for all languages
 tweet_language:
 
 # Create your app on http://apps.twitter.com
 [twitter]
-consumer_key:
-consumer_secret:
-access_token:
-access_token_secret:
+consumer_key:GeAaKeJQH2UZCfB1es6B3Pfnx
+consumer_secret:pAOAgl2eWquMEm8C0FhfuzDME9qjZr5MxG2GzxfNAmLwitFRyU
+access_token:4036048696-GYYZA6P7OJZ4Hfamti5k9N2ymSwKxlyH5ogk1CR
+access_token_secret:d5wJreD1M6DfT3njMZLMSHMhAXhQSHyukVVgk4NolfjFz
 
 # Leave blank if you don't want to blacklist any users or words
 [preferences]
